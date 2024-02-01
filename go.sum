@@ -2312,8 +2312,8 @@ github.com/hashicorp/vault-plugin-secrets-kubernetes v0.6.0 h1:DePS4sSAbjYTQrpTP
 github.com/hashicorp/vault-plugin-secrets-kubernetes v0.6.0/go.mod h1:4nPWdBQxjIEGZaWWPKHixN7MFHjESOlOtNyy02e/w9c=
 github.com/hashicorp/vault-plugin-secrets-kv v0.16.2 h1:HdluNBrYGEEAJ1IrP3/T5RRgha16VGRlAisAlSB2hvI=
 github.com/hashicorp/vault-plugin-secrets-kv v0.16.2/go.mod h1:oJwVConr6pkDIIO8q8OO3FP5WtWj/iSWuhiPVdKt67E=
-github.com/hashicorp/vault-plugin-secrets-mongodbatlas v0.10.2 h1:5eFlzhFXoSe+ntm26wromhtLbPjTCdXcdwpMv7wFeHk=
-github.com/hashicorp/vault-plugin-secrets-mongodbatlas v0.10.2/go.mod h1:OdXvez+GH0XBSRS7gxbS8B1rLUPb8bGk+bDVyEaAzI8=
+github.com/hashicorp/vault-plugin-secrets-mongodbatlas v0.10.2-0.20240201001520-8b58fe86aa8d h1:SddXbIASd5//96x74GB4XNzrAzikjHMRgZlF4NxtjYY=
+github.com/hashicorp/vault-plugin-secrets-mongodbatlas v0.10.2-0.20240201001520-8b58fe86aa8d/go.mod h1:C5V6B8kJfnbkcR9hn+wmCdeBWCvUsKt59nUvK+bdnAo=
 github.com/hashicorp/vault-plugin-secrets-openldap v0.11.3 h1:+vE++mPxYqpEke7wD/gdfWFXeZRbVCAALsZ+s6tK7p0=
 github.com/hashicorp/vault-plugin-secrets-openldap v0.11.3/go.mod h1:2Hf/rcSI2oXYIyvGsw1nPn1BOfv7DHZejLXnPg/Z4SE=
 github.com/hashicorp/vault-plugin-secrets-terraform v0.7.3 h1:k5jCx6laFvQHvrQod+TSHSoDqF3ZSIlQB4Yzj6koz0I=
@@ -3241,8 +3241,8 @@ go.etcd.io/etcd/raft/v3 v3.5.5/go.mod h1:76TA48q03g1y1VpTue92jZLr9lIHKUNcYdZOOGy
 go.etcd.io/etcd/server/v3 v3.5.0/go.mod h1:3Ah5ruV+M+7RZr0+Y/5mNLwC+eQlni+mQmOVdCRJoS4=
 go.etcd.io/etcd/server/v3 v3.5.5/go.mod h1:rZ95vDw/jrvsbj9XpTqPrTAB9/kzchVdhRirySPkUBc=
 go.etcd.io/gofail v0.1.0/go.mod h1:VZBCXYGZhHAinaBiiqYvuDynvahNsAyLFwB3kEHKz1M=
-go.mongodb.org/atlas v0.33.0 h1:qJhkEuJufh7sVDVHorTF/D7G7naQ1EJAzqf1aV29JWs=
-go.mongodb.org/atlas v0.33.0/go.mod h1:L4BKwVx/OeEhOVjCSdgo90KJm4469iv7ZLzQms/EPTg=
+go.mongodb.org/atlas v0.36.0 h1:m05S3AO7zkl+bcG1qaNsEKBnAqnKx2FDwLooHpIG3j4=
+go.mongodb.org/atlas v0.36.0/go.mod h1:nfPldE9dSama6G2IbIzmEza02Ly7yFZjMMVscaM0uEc=
 go.mongodb.org/mongo-driver v1.10.0/go.mod h1:wsihk0Kdgv8Kqu1Anit4sfK+22vSFbUrAVEYRhCXrA8=
 go.mongodb.org/mongo-driver v1.12.1 h1:nLkghSU8fQNaK7oUmDhQFsnrtcoNy7Z6LVFKsEecqgE=
 go.mongodb.org/mongo-driver v1.12.1/go.mod h1:/rGBTebI3XYboVmgz+Wv3Bcbl3aD0QF9zl6kDDw18rQ=
